@@ -1,8 +1,8 @@
-import Tkinter
-from Tkinter import *
+import tkinter
+from tkinter import *
 import webbrowser
 import thrain
-import Tkinter, Tkconstants, tkFileDialog
+import tkinter, tkconstants, tkFileDialog
 
 '''
 -----------------------------------------------------------------
